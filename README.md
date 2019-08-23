@@ -1,7 +1,7 @@
 # Comparison-of-Sorting-Algorithms
 Comparing the time complexity of various sorting algorithms.
 ----------------------------------------------------------------------
-The sorting alogrithms choosen for analysis are:
+The sorting algorithms compared are:
 
 Shell sort	 
 Selection sort	     
